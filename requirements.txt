@@ -1,0 +1,6 @@
+torch
+gradio
+numpy
+opencv-python
+timm
+einops
